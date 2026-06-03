@@ -24,6 +24,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # red / dark themed snake to match the profile
           outputs: |
+            dist/snake.gif?color_snake=%23ffd000&color_dots=%233a2222,%237a2b2b,%23a83838,%23d64a4a,%23ff6b6b
             dist/snake.svg?color_snake=%23ffd000&color_dots=%233a2222,%237a2b2b,%23a83838,%23d64a4a,%23ff6b6b
 
       - name: Push snake.svg to the output branch
