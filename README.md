@@ -14,19 +14,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:b30000,100:0d1117&height=3" alt="" />
 
-## ⚡ About Me
+## About Me
 
-- 🛠️ &nbsp;IT apprentice at **Arco IT GmbH** — systems & infrastructure
-- 🎓 &nbsp;Studying at **TBZ Zürich** _(modules M122–M431)_
-- 🌐 &nbsp;Into **networking, sysadmin & home-lab / NAS** setups
-- 🦀 &nbsp;Currently learning **Rust** & deepening **PowerShell** automation
-- 🇨🇭 &nbsp;Based in **Switzerland**
+- IT apprentice at **Arco IT GmbH** — systems & infrastructure
+- Studying at **TBZ Zürich** _(modules M122–M431)_
+- Into **networking, sysadmin & home-lab / NAS** setups
+- Currently learning **Rust** & deepening **PowerShell** automation
+- Based in **Switzerland**
 
 > _"Automate the boring. Learn the hard."_
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:b30000,100:0d1117&height=3" alt="" />
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +44,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:b30000,100:0d1117&height=3" alt="" />
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=VanyaCherneha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9&ring_color=ff4d4d&rank_icon=github" alt="stats" />
@@ -61,7 +61,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:b30000,100:0d1117&height=3" alt="" />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/VanyaCherneha/winget-auto-update">
@@ -74,7 +74,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:b30000,100:0d1117&height=3" alt="" />
 
-## 🐍 Contribution Snake
+## Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VanyaCherneha/VanyaCherneha/output/snake.gif?v=2" alt="snake" />
