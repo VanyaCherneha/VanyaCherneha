@@ -77,7 +77,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VanyaCherneha/VanyaCherneha/output/snake.gif" alt="snake" />
+  <img src="https://raw.githubusercontent.com/VanyaCherneha/VanyaCherneha/output/snake.gif?v=2" alt="snake" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:7a0000,100:b30000&height=120&section=footer" alt="footer" />
