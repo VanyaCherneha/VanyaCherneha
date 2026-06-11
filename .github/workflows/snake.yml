@@ -22,10 +22,10 @@ jobs:
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
-          # red / dark themed snake to match the profile
+          # white snake on a red dot ramp to match the profile theme
           outputs: |
-            dist/snake.gif?color_snake=%23ffd000&color_dots=%233a2222,%237a2b2b,%23a83838,%23d64a4a,%23ff6b6b
-            dist/snake.svg?color_snake=%23ffd000&color_dots=%233a2222,%237a2b2b,%23a83838,%23d64a4a,%23ff6b6b
+            dist/snake.gif?color_snake=%23f0f6fc&color_dots=%23220a0a,%235c1212,%23991f1f,%23d63030,%23ff5555
+            dist/snake.svg?color_snake=%23f0f6fc&color_dots=%23220a0a,%235c1212,%23991f1f,%23d63030,%23ff5555
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
